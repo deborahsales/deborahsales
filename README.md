@@ -27,9 +27,9 @@
 
 <div style="display: inline_block">
     <a href="https://github.com/deborahsales"></a>
-    <img height="150em" src="assets/img/octocat.png" alt="Octocat"/>
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deborahsales&show_icons=true&theme=dark">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deborahsales&layout=compact&langs_count=8&theme=dark">
+    <img height="150em" src="assets/img/octocat.png" alt="Octocat"/>
 </div>
 
 <div style="display: inline_block"><br>
