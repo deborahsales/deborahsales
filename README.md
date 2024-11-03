@@ -1,8 +1,8 @@
 ### 👋 Hello there! I’m Déborah
 
 <div style="display: flex; gap: 10px; align-items: center">
-    <img height="150em "src="assets/img/octocat.png"/>
-    <p>I'm a Computer Science student deeply committed to a career transition into the tech world. Fully invested in this journey, I’m passionate about creating engaging mobile and web experiences and continuously building the skills needed to develop scalable, impactful applications.</p>
+    <img height="150em" src="assets/img/octocat.png"/>
+    <p width="500em">I'm a Computer Science student deeply committed to a career transition into the tech world. Fully invested in this journey, I’m passionate about creating engaging mobile and web experiences and continuously building the skills needed to develop scalable, impactful applications.</p>
 </div>
 
 ---
