@@ -1,6 +1,7 @@
 ## Hello there! I’m Déborah 👋 
 
-### I'm a Computer Science student deeply committed to a career transition into the tech world. Fully invested in this journey, I’m passionate about creating engaging mobile and web experiences and continuously building the skills needed to develop scalable, impactful applications.
+### I'm a Computer Science student deeply committed to a career transition into the tech world.
+### Fully invested in this journey, I’m passionate about creating engaging mobile and web experiences and continuously building the skills needed to develop scalable, impactful applications.
 
 ---
 
