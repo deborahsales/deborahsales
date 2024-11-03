@@ -25,7 +25,7 @@
 
 ##
 
-<div style="display: flex; gap: 10px">
+<div style="display: inline_block">
     <a href="https://github.com/deborahsales"></a>
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deborahsales&show_icons=true&theme=dark">
     <img height="150em" src="assets/img/octocat.png" alt="Octocat"/>
