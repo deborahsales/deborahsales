@@ -1,15 +1,6 @@
-### 👋 Hello there! I’m Déborah
+## Hello there! I’m Déborah 👋 
 
-<table>
-  <tr>
-    <td style="width: 20%; vertical-align: top;">
-      <img src="assets/img/octocat.png" alt="Octocat" style="width: 100%; height: auto;"/>
-    </td>
-    <td style="width: 80%; vertical-align: top;">
-      I'm a Computer Science student deeply committed to a career transition into the tech world. Fully invested in this journey, I’m passionate about creating engaging mobile and web experiences and continuously building the skills needed to develop scalable, impactful applications.
-    </td>
-  </tr>
-</table>
+### I'm a Computer Science student deeply committed to a career transition into the tech world. Fully invested in this journey, I’m passionate about creating engaging mobile and web experiences and continuously building the skills needed to develop scalable, impactful applications.
 
 ---
 
@@ -37,6 +28,7 @@
 <div style="display: flex; gap: 10px">
     <a href="https://github.com/deborahsales"></a>
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deborahsales&show_icons=true&theme=dark">
+    <img height="150em" src="assets/img/octocat.png" alt="Octocat"/>
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deborahsales&layout=compact&langs_count=8&theme=dark">
 </div>
 
