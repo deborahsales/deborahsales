@@ -1,9 +1,15 @@
 ### 👋 Hello there! I’m Déborah
 
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img style="width:30%" src="assets/img/octocat.png"/>
-    <p style="width:70%">I'm a Computer Science student deeply committed to a career transition into the tech world. Fully invested in this journey, I’m passionate about creating engaging mobile and web experiences and continuously building the skills needed to develop scalable, impactful applications.</p>
-</div>
+<table>
+  <tr>
+    <td style="width: 20%; vertical-align: top;">
+      <img src="assets/img/octocat.png" alt="Octocat" style="width: 100%; height: auto;"/>
+    </td>
+    <td style="width: 80%; vertical-align: top;">
+      I'm a Computer Science student deeply committed to a career transition into the tech world. Fully invested in this journey, I’m passionate about creating engaging mobile and web experiences and continuously building the skills needed to develop scalable, impactful applications.
+    </td>
+  </tr>
+</table>
 
 ---
 
