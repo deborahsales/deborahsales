@@ -1,37 +1,36 @@
 ## Hello there! I’m Déborah 👋 
 
-### I'm a Computer Science student deeply committed to a career transition into the tech world.
-### Fully invested in this journey, I’m passionate about creating engaging mobile and web experiences and continuously building the skills needed to develop scalable, impactful applications.
+### I’m a Computer Science undergraduate and a fullstack developer focused on building scalable, maintainable and high-quality applications using Angular, NestJS and TypeScript.
+### I’m passionate about clean architecture, API design, modern web development and continuous learning through real-world projects.
 
 ---
 
-### 🔭 Currently Working On
+### 🔭 What I’m Working On
 
-- Expanding my skills in mobile development with Flutter, React Native, and Expo.
+- Developing fullstack applications using Angular + NestJS
+- Improving clean code practices, component-based architecture and API structure
+- Building personal projects to strengthen my fullstack skills
 
 ### 🌱 Currently Learning
 
-- Full-stack web development with a focus on Angular, Node.js, and TypeScript.
+- Advanced TypeScript patterns
+- Software architecture for fullstack applications
+- Database integration and backend best practices
+- Authentication, authorization and secure API design
 
 ### ⚙️ Tech Stack
 
-- **Languages**: TypeScript, JavaScript, Python, Dart
-- **Mobile Development**: Flutter, React Native, Expo
-- **Web Development**: Angular, Node.js, HTML, CSS
-- **Tools**: Git, VS Code, ESLint, Prettier
+- **Frontend**: Angular, HTML, SCSS
+- **Backend**: NestJS, Node.js
+- **Languages**: TypeScript, JavaScript, Python
+- **Databases**: PostgreSQL, Prisma
+- **Tools & Workflow**: Git, GitHub, Docker, VS Code, ESLint, Prettier
 
 ### ⚡ Fun Facts
 
-- I have a background in Architecture and Interior Design.
+- I have a background in Architecture and Interior Design, which enhances my attention to structure, usability, aesthetics and problem-solving in software development.
 
 ##
-
-<div style="display: inline_block">
-    <a href="https://github.com/deborahsales"></a>
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=deborahsales&show_icons=true&theme=dark">
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deborahsales&layout=compact&langs_count=8&theme=dark">
-    <img height="150em" src="assets/img/octocat.png" alt="Octocat"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
