@@ -10,8 +10,8 @@
 - Strengthening clean code practices, component architecture and secure API design
 
 ### 📌 Featured Projects
-- **Beheer** — fullstack application developed as my Computer Science thesis, featuring JWT authentication (Angular + NestJS + Prisma + PostgreSQL) · [repo](https://github.com/deborahsales/beheer) · [live demo](https://www.beheer.com.br/)
-- **BloomByteGirls** — curated learning platform with programming roadmaps for girls entering tech (Angular) · [repo](https://github.com/deborahsales/bloombytegirlss) · [live demo](https://bloombytegirls.vercel.app/)
+- **Beheer** — fullstack application developed as my Computer Science thesis, featuring JWT authentication (Angular + NestJS + Prisma + PostgreSQL) · [repo frontend](https://github.com/deborahsales/beheer-frontend) · [repo backend](https://github.com/deborahsales/beheer-backend) · [live demo](https://www.beheer.com.br/)
+- **BloomByteGirls** — curated learning platform with programming roadmaps for girls entering tech (Angular) · [repo](https://github.com/deborahsales/bloom_byte_girls_frontend) · [live demo](https://bloombytegirls.vercel.app/)
 
 ### 🌱 Currently Learning
 - Advanced TypeScript patterns
