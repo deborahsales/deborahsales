@@ -1,71 +1,54 @@
-## Hello there! I’m Déborah 👋 
+## Hello there! I'm Déborah 👋
 
-### I’m a Computer Science undergraduate and a fullstack developer focused on building scalable, maintainable and high-quality applications using Angular, NestJS and TypeScript.
-### I’m passionate about clean architecture, API design, modern web development and continuous learning through real-world projects.
+### Fullstack developer focused on building scalable, maintainable and high-quality applications using Angular, NestJS and TypeScript.
+### Passionate about clean architecture, API design and modern web development.
 
 ---
 
-### 🔭 What I’m Working On
+### 🔭 What I'm Working On
+- **Amigurumi Studio** — a fullstack management app for a crochet atelier (Angular + NestJS + Prisma + PostgreSQL)
+- Strengthening clean code practices, component architecture and secure API design
 
-- Developing fullstack applications using Angular + NestJS
-- Improving clean code practices, component-based architecture and API structure
-- Building personal projects to strengthen my fullstack skills
+### 📌 Featured Projects
+- **Beheer** — fullstack application developed as my Computer Science thesis, featuring JWT authentication (Angular + NestJS + Prisma + PostgreSQL) · [repo](https://github.com/deborahsales/beheer) · [live demo](https://www.beheer.com.br/)
+- **BloomByteGirls** — curated learning platform with programming roadmaps for girls entering tech (Angular) · [repo](https://github.com/deborahsales/bloombytegirlss) · [live demo](https://bloombytegirls.vercel.app/)
 
 ### 🌱 Currently Learning
-
 - Advanced TypeScript patterns
-- Software architecture for fullstack applications
-- Database integration and backend best practices
-- Authentication, authorization and secure API design
+- Software architecture and clean architecture principles
+- Testing strategies for Angular and NestJS applications
+- DevOps basics — CI/CD pipelines and containerization with Docker
 
 ### ⚙️ Tech Stack
-
 - **Frontend**: Angular, HTML, SCSS
 - **Backend**: NestJS, Node.js
 - **Languages**: TypeScript, JavaScript, Python
-- **Databases**: PostgreSQL, Prisma
-- **Tools & Workflow**: Git, GitHub, Docker, VS Code, ESLint, Prettier
+- **Databases**: PostgreSQL, Prisma ORM
+- **Tools**: Git, GitHub, Docker, VS Code, ESLint, Prettier
 
 ### ⚡ Fun Facts
+- I have a background in Architecture and Interior Design — which sharpens my attention to structure, usability and aesthetics in everything I build.
+- I created **BloomByteGirls**, a curated learning platform with programming roadmaps designed to help girls start their journey in tech.
 
-- I have a background in Architecture and Interior Design, which enhances my attention to structure, usability, aesthetics and problem-solving in software development.
+---
 
-##
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Angular14" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-</div>
-
-##
+---
 
 ### 📬 Let's Connect
 
-<div>
-  <a href="https://instagram.com/salesdeborah" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:deborah.sales@dcomp.ufs.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/deborahsales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-
-<!--
-**deborahsales/deborahsales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salesdeborah)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsales15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deborahsales/)
